@@ -1,0 +1,19 @@
+>Feature ref|YP_002302230.1|
+1	776	Protein
+			product	outer capsid spike protein VP4
+65	214	Region
+			region	VP4_haemagglut
+			note	Outer Capsid protein VP4 (Hemagglutinin) Concanavalin-like domain
+			db_xref	CDD:395342
+250	474	Region
+			region	Rota_VP4_MID
+			note	Rotavirus VP4 membrane interaction domain
+			db_xref	CDD:407512
+486	776	Region
+			region	VP4_helical
+			note	Rotavirus VP4 helical domain
+			db_xref	CDD:465429
+1	776	CDS
+			product	outer capsid spike protein VP4
+			protein_id	ref|YP_002302230.1|
+

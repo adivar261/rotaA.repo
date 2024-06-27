@@ -1,0 +1,9 @@
+>Feature ref|NC_011510.2|
+10	2340	gene
+			gene_desc	VP4
+			locus_tag	RVA_s4_g p1
+			db_xref	GeneID:7011406
+10	2340	CDS
+			product	outer capsid spike protein VP4
+			protein_id	ref|YP_002302230.1|
+
