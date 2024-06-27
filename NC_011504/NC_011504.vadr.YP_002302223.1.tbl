@@ -1,0 +1,13 @@
+>Feature ref|YP_002302223.1|
+1	175	Protein
+			product	NSP4
+			prot_desc	assembly protein
+1	173	Region
+			region	Rota_NSP4
+			note	Rotavirus non structural protein
+			db_xref	CDD:279757
+1	175	CDS
+			product	NSP4
+			prot_desc	assembly protein
+			protein_id	ref|YP_002302223.1|
+

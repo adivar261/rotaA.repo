@@ -1,0 +1,10 @@
+>Feature ref|NC_011504.2|
+42	569	gene
+			gene_desc	NSP4
+			locus_tag	RVA_s10_gp1
+			db_xref	GeneID:7011361
+42	569	CDS
+			product	NSP4
+			prot_desc	assembly protein
+			protein_id	ref|YP_002302223.1|
+

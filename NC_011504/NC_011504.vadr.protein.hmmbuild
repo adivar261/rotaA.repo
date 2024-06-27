@@ -1,0 +1,15 @@
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             -
+# output HMM file:                  NC_011504/NC_011504.vadr.1.hmm
+# name (the single) HMM:            NC_011504/42..569:+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     NC_011504/42..569:+      1   175   175     0.40  0.589 
+
+# CPU time: 0.10u 0.00s 00:00:00.10 Elapsed: 00:00:00.10
