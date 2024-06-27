@@ -1,0 +1,13 @@
+>Feature ref|YP_002302225.1|
+1	92	Protein
+			product	NSP6
+			prot_desc	nonstructural protein
+1	92	Region
+			region	Rota_NS6
+			note	Rotavirus non-structural protein 6
+			db_xref	CDD:282690
+1	92	CDS
+			product	NSP6
+			prot_desc	nonstructural protein
+			protein_id	ref|YP_002302225.1|
+

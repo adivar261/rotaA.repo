@@ -1,0 +1,18 @@
+>Feature ref|NC_011505.2|
+22	618	gene
+			gene_desc	NSP5
+			locus_tag	RVA_s11_gp1
+			db_xref	GeneID:7011364
+22	618	CDS
+			product	NSP5
+			prot_desc	phosphoprotein
+			protein_id	ref|YP_002302224.1|
+80	358	gene
+			gene_desc	NSP6
+			locus_tag	RVA_s11_gp2
+			db_xref	GeneID:7011363
+80	358	CDS
+			product	NSP6
+			prot_desc	nonstructural protein
+			protein_id	ref|YP_002302225.1|
+

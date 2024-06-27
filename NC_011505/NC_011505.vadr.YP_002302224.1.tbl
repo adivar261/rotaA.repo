@@ -1,0 +1,13 @@
+>Feature ref|YP_002302224.1|
+1	198	Protein
+			product	NSP5
+			prot_desc	phosphoprotein
+3	198	Region
+			region	Rota_NS26
+			note	Rotavirus NS26
+			db_xref	CDD:460239
+1	198	CDS
+			product	NSP5
+			prot_desc	phosphoprotein
+			protein_id	ref|YP_002302224.1|
+
