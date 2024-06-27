@@ -1,0 +1,45 @@
+# cmbuild :: covariance model construction from multiple sequence alignments
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                            NC_011500/NC_011500.vadr.cm
+# alignment file:                                     NC_011500/NC_011500.vadr.stk
+# name (the single) CM:                               NC_011500
+# ignore secondary structure, if any:                 yes
+# verbose mode:                                       on
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Alignment:           NC_011500
+Number of sequences: 1
+Number of columns:   1614
+Checking MSA                             ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Relative sequence weighting              ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Marking fragments                        ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Constructing model                       ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Finding and checking dual inserts        ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Transferring MSA annotation              ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Set effective sequence number            ... done.  CPU time: 0.38u 0.00s 00:00:00.38 Elapsed: 00:00:00.38
+Converting counts to probabilities       ... done.  CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.03
+Configuring model                        ... done.  CPU time: 0.23u 0.00s 00:00:00.23 Elapsed: 00:00:00.23
+Setting CM consensus                     ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Calibrating p7 HMM filter                ... done.  CPU time: 24.98u 0.02s 00:00:25.00 Elapsed: 00:00:25.04
+#                                                                      rel entropy
+#                                                                      -----------
+# idx    name                     nseq eff_nseq   alen  clen  bps bifs    CM   HMM description
+# ------ -------------------- -------- -------- ------ ----- ---- ---- ----- ----- -----------
+       1 NC_011500                   1     0.71   1614  1614    0    0 0.380 0.380 
+
+Summary report for CM structure:
+--------------------------------------
+Total states:       4846
+Total nodes:        1616
+Bifurcations:          0
+MATP nodes:            0
+MATL nodes:         1614
+MATR nodes:            0
+Consensus columns:  1614    (2*MATP+MATL+MATR)
+Base pairs:            0    (MATP)
+Single stranded:    1614    (MATL+MATR)
+//
+#
+# CPU time: 25.64u 0.02s 00:00:25.66 Elapsed: 00:00:25.73

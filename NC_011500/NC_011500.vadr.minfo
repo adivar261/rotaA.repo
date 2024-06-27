@@ -1,0 +1,3 @@
+MODEL NC_011500 blastdb:"NC_011500.vadr.protein.fa" cmfile:"NC_011500.vadr.cm" length:"1614"
+FEATURE NC_011500 type:"gene" coords:"31..1521:+" parent_idx_str:"GBNULL"
+FEATURE NC_011500 type:"CDS" coords:"31..1521:+" parent_idx_str:"GBNULL" product:"NSP1"

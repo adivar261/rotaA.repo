@@ -1,0 +1,9 @@
+>Feature ref|NC_011500.2|
+31	1521	gene
+			gene_desc	NSP1
+			db_xref	GeneID:7011353
+31	1521	CDS
+			product	NSP1
+			prot_desc	interferon antagonist protein
+			protein_id	ref|YP_002302219.1|
+

@@ -1,0 +1,13 @@
+>Feature ref|YP_002302219.1|
+1	496	Protein
+			product	NSP1
+			prot_desc	interferon antagonist protein
+1	492	Region
+			region	Rota_NS53
+			note	Rotavirus RNA-binding Protein 53 (NS53)
+			db_xref	CDD:144538
+1	496	CDS
+			product	NSP1
+			prot_desc	interferon antagonist protein
+			protein_id	ref|YP_002302219.1|
+
