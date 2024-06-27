@@ -1,0 +1,9 @@
+>Feature ref|NC_011508.2|
+50	2557	gene
+			gene_desc	VP3
+			db_xref	GeneID:7011370
+50	2557	CDS
+			product	VP3
+			prot_desc	RNA capping protein
+			protein_id	ref|YP_002302228.1|
+

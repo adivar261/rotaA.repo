@@ -1,0 +1,17 @@
+>Feature ref|YP_002302228.1|
+1	835	Protein
+			product	VP3
+			prot_desc	RNA capping protein
+1	687	Region
+			region	Rotavirus_VP3
+			note	Rotavirus VP3 protein
+			db_xref	CDD:399720
+693	>801	Region
+			region	Corona_NS2A
+			note	Coronavirus NS2A protein
+			db_xref	CDD:282997
+1	835	CDS
+			product	VP3
+			prot_desc	RNA capping protein
+			protein_id	ref|YP_002302228.1|
+

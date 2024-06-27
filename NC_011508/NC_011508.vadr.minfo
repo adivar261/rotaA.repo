@@ -1,0 +1,3 @@
+MODEL NC_011508 blastdb:"NC_011508.vadr.protein.fa" cmfile:"NC_011508.vadr.cm" length:"2591"
+FEATURE NC_011508 type:"gene" coords:"50..2557:+" parent_idx_str:"GBNULL"
+FEATURE NC_011508 type:"CDS" coords:"50..2557:+" parent_idx_str:"GBNULL" product:"VP3"
