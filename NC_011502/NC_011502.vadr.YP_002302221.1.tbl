@@ -1,0 +1,13 @@
+>Feature ref|YP_002302221.1|
+1	317	Protein
+			product	NSP2
+			prot_desc	viroplasm RNA binding protein
+1	316	Region
+			region	Rota_NS35
+			note	Rotavirus non-structural protein 35
+			db_xref	CDD:396869
+1	317	CDS
+			product	NSP2
+			prot_desc	viroplasm RNA binding protein
+			protein_id	ref|YP_002302221.1|
+

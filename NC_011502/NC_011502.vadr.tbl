@@ -1,0 +1,9 @@
+>Feature ref|NC_011502.2|
+47	1000	gene
+			gene_desc	NSP2
+			db_xref	GeneID:7011357
+47	1000	CDS
+			product	NSP2
+			prot_desc	viroplasm RNA binding protein
+			protein_id	ref|YP_002302221.1|
+
