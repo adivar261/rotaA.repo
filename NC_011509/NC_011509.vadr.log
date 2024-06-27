@@ -1,0 +1,75 @@
+# v-build.pl :: build homology model of a single sequence for feature annotation
+# VADR 1.6.3 (Dec 2023)
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# date:              Thu May 30 11:01:00 2024
+# $VADRBLASTDIR:     /net/intdev/oblast01/dnaorg/virseqannot/code/vadr-install-1.6.3/ncbi-blast/bin
+# $VADREASELDIR:     /net/intdev/oblast01/dnaorg/virseqannot/code/vadr-install-1.6.3/infernal/binaries
+# $VADRINFERNALDIR:  /net/intdev/oblast01/dnaorg/virseqannot/code/vadr-install-1.6.3/infernal/binaries
+# $VADRSCRIPTSDIR:   /net/intdev/oblast01/dnaorg/virseqannot/code/vadr-install-1.6.3/vadr
+#
+# accession/model name:  NC_011509
+# output directory:      NC_011509
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Fetching FASTA file                                          ... done. [    3.5 seconds]
+# Parsing FASTA file                                           ... done. [    0.0 seconds]
+# Fetching feature table file                                  ... done. [    3.8 seconds]
+# Parsing feature table file                                   ... done. [    0.0 seconds]
+# Fetching and parsing protein feature table file(s)           ... done. [    3.4 seconds]
+# Pruning data read from GenBank                               ... done. [    0.0 seconds]
+# Reformatting FASTA file to Stockholm file                    ... done. [    0.0 seconds]
+# Building BLAST nucleotide database                           ... done. [    0.2 seconds]
+# Finalizing feature information                               ... done. [    0.0 seconds]
+# Translating CDS                                              ... done. [    0.0 seconds]
+# Building BLAST protein database                              ... done. [    0.1 seconds]
+# Building HMMER protein database                              ... done. [    0.3 seconds]
+# Checking intron splice sites, if any                         ... done. [    0.0 seconds]
+# Building CM (shouldn't take more than a few minutes)         ... done. [   18.3 seconds]
+# Pressing CM file                                             ... done. [    0.0 seconds]
+# Creating model info file                                     ... done. [    0.0 seconds]
+#
+# Output printed to screen saved in:                                 NC_011509.vadr.log
+# List of executed commands saved in:                                NC_011509.vadr.cmd
+# List and description of all output files saved in:                 NC_011509.vadr.filelist
+# fasta file for NC_011509 saved in:                                 NC_011509.vadr.fa
+# feature table format file for NC_011509 saved in:                  NC_011509.vadr.tbl
+# feature table format file for YP_002302229.1 saved in:             NC_011509.vadr.YP_002302229.1.tbl
+# Stockholm alignment file for NC_011509 saved in:                   NC_011509.vadr.stk
+# nucleotide blastn db fasta sequence file for NC_011509 saved in:   NC_011509.vadr.fa
+# BLAST db .nhr file for NC_011509 saved in:                         NC_011509.vadr.fa.nhr
+# BLAST db .nin file for NC_011509 saved in:                         NC_011509.vadr.fa.nin
+# BLAST db .nsq file for NC_011509 saved in:                         NC_011509.vadr.fa.nsq
+# BLAST db .ndb file for NC_011509 saved in:                         NC_011509.vadr.fa.ndb
+# BLAST db .not file for NC_011509 saved in:                         NC_011509.vadr.fa.not
+# BLAST db .ntf file for NC_011509 saved in:                         NC_011509.vadr.fa.ntf
+# BLAST db .nto file for NC_011509 saved in:                         NC_011509.vadr.fa.nto
+# fasta sequence file for CDS from NC_011509 saved in:               NC_011509.vadr.cds.fa
+# fasta sequence file for translated CDS from NC_011509 saved in:    NC_011509.vadr.protein.fa
+# BLAST db .phr file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.phr
+# BLAST db .pin file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.pin
+# BLAST db .psq file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.psq
+# BLAST db .pdb file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.pdb
+# BLAST db .pot file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.pot
+# BLAST db .ptf file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.ptf
+# BLAST db .pto file for NC_011509 saved in:                         NC_011509.vadr.protein.fa.pto
+# HMMER model db file for NC_011509 saved in:                        NC_011509.vadr.protein.hmm
+# hmmbuild build output (concatenated) saved in:                     NC_011509.vadr.protein.hmmbuild
+# binary HMM and p7 HMM filter file saved in:                        NC_011509.vadr.protein.hmm.h3m
+# SSI index for binary HMM file saved in:                            NC_011509.vadr.protein.hmm.h3i
+# optimized p7 HMM filters (MSV part) saved in:                      NC_011509.vadr.protein.hmm.h3f
+# optimized p7 HMM filters (remainder) saved in:                     NC_011509.vadr.protein.hmm.h3p
+# hmmpress output file saved in:                                     NC_011509.vadr.hmmpress
+# CM file saved in:                                                  NC_011509.vadr.cm
+# cmbuild output file saved in:                                      NC_011509.vadr.cmbuild
+# binary CM and p7 HMM filter file saved in:                         NC_011509.vadr.cm.i1m
+# SSI index for binary CM file saved in:                             NC_011509.vadr.cm.i1i
+# optimized p7 HMM filters (MSV part) saved in:                      NC_011509.vadr.cm.i1f
+# optimized p7 HMM filters (remainder) saved in:                     NC_011509.vadr.cm.i1p
+# cmpress output file saved in:                                      NC_011509.vadr.cmpress
+# VADR 'model info' format file for NC_011509 saved in:              NC_011509.vadr.minfo
+#
+# All output files created in directory ./NC_011509/
+#
+# Elapsed time:  00:00:29.57
+#                hh:mm:ss
+# 
+[ok]

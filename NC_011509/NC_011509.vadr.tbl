@@ -1,0 +1,9 @@
+>Feature ref|NC_011509.2|
+24	1217	gene
+			gene_desc	VP6
+			db_xref	GeneID:7011372
+24	1217	CDS
+			product	VP6
+			prot_desc	inner capsid protein
+			protein_id	ref|YP_002302229.1|
+
