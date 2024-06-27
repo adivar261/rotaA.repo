@@ -1,0 +1,9 @@
+>Feature ref|NC_011501.2|
+26	973	gene
+			gene_desc	NSP3
+			db_xref	GeneID:7011355
+26	973	CDS
+			product	NSP3
+			prot_desc	translation effector protein
+			protein_id	ref|YP_002302220.1|
+

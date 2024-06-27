@@ -1,0 +1,33 @@
+>Feature ref|YP_002302220.1|
+1	315	Protein
+			product	NSP3
+			prot_desc	translation effector protein
+5	282	Region
+			region	NSP3_rotavirus
+			note	rotavirus non-structural protein 3 (NSP3)
+			db_xref	CDD:418796
+56	57	Site
+61	62
+65	66
+69	69
+80	80
+83	84
+93	93
+97	98
+100	102
+104	105
+115	115
+118	119
+122	122
+128	128
+131	135
+142	142
+146	146
+			site_type	other
+			note	RNA binding site [nucleotide binding]
+			db_xref	CDD:411010
+1	315	CDS
+			product	NSP3
+			prot_desc	translation effector protein
+			protein_id	ref|YP_002302220.1|
+
