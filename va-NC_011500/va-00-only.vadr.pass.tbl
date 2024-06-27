@@ -1,0 +1,83 @@
+>Feature KC579614.1
+3	1463	gene
+3	1463	CDS
+			product	NSP1
+			protein_id	KC579614.1_1
+>Feature FM179290.1
+<1	>346	gene
+<1	>346	CDS
+			product	NSP1
+			codon_start	3
+			protein_id	FM179290.1_1
+>Feature KY657893.1
+1	>1458	gene
+1	>1458	CDS
+			product	NSP1
+			protein_id	KY657893.1_1
+>Feature LC751594.1
+32	1492	gene
+32	1492	CDS
+			product	NSP1
+			protein_id	LC751594.1_1
+>Feature MT854649.1
+1	>1458	gene
+1	>1458	CDS
+			product	NSP1
+			protein_id	MT854649.1_1
+>Feature JF491052.1
+3	1463	gene
+3	1463	CDS
+			product	NSP1
+			protein_id	JF491052.1_1
+>Feature KT887526.1
+1	>1467	gene
+1	>1467	CDS
+			product	NSP1
+			protein_id	KT887526.1_1
+>Feature KF500514.1
+32	1507	gene
+32	1507	CDS
+			product	NSP1
+			protein_id	KF500514.1_1
+>Feature JX027738.1
+3	1463	gene
+3	1463	CDS
+			product	NSP1
+			protein_id	JX027738.1_1
+>Feature EU542703.1
+<1	1454	gene
+<1	1454	CDS
+			product	NSP1
+			codon_start	3
+			protein_id	EU542703.1_1
+>Feature JN258372.1
+3	1463	gene
+3	1463	CDS
+			product	NSP1
+			protein_id	JN258372.1_1
+>Feature ON992445.1
+32	1492	gene
+32	1492	CDS
+			product	NSP1
+			protein_id	ON992445.1_1
+>Feature FJ206223.1
+32	>408	gene
+32	>408	CDS
+			product	NSP1
+			protein_id	FJ206223.1_1
+>Feature MN649751.1
+<1	>1110	gene
+<1	>1110	CDS
+			product	NSP1
+			codon_start	1
+			protein_id	MN649751.1_1
+>Feature KC769399.1
+3	1463	gene
+3	1463	CDS
+			product	NSP1
+			protein_id	KC769399.1_1
+>Feature MT854803.1
+1	>1458	gene
+1	>1458	CDS
+			product	NSP1
+			protein_id	MT854803.1_1
