@@ -1,0 +1,13 @@
+>Feature ref|YP_002302222.1|
+1	326	Protein
+			product	VP7
+			prot_desc	capsid glycoprotein
+1	323	Region
+			region	VP7
+			note	Glycoprotein VP7
+			db_xref	CDD:425679
+1	326	CDS
+			product	VP7
+			prot_desc	capsid glycoprotein
+			protein_id	ref|YP_002302222.1|
+

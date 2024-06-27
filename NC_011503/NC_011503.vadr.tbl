@@ -1,0 +1,9 @@
+>Feature ref|NC_011503.2|
+49	1029	gene
+			gene_desc	VP7
+			db_xref	GeneID:7011359
+49	1029	CDS
+			product	VP7
+			prot_desc	capsid glycoprotein
+			protein_id	ref|YP_002302222.1|
+
