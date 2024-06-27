@@ -1,0 +1,37 @@
+# fasta file for NC_011507 saved in:                                               NC_011507.vadr.fa
+# feature table format file for NC_011507 saved in:                                NC_011507.vadr.tbl
+# feature table format file for YP_002302227.1 saved in:                           NC_011507.vadr.YP_002302227.1.tbl
+# Stockholm alignment file for NC_011507 saved in:                                 NC_011507.vadr.stk
+# nucleotide blastn db fasta sequence file for NC_011507 saved in:                 NC_011507.vadr.fa
+# BLAST db .nhr file for NC_011507 saved in:                                       NC_011507.vadr.fa.nhr
+# BLAST db .nin file for NC_011507 saved in:                                       NC_011507.vadr.fa.nin
+# BLAST db .nsq file for NC_011507 saved in:                                       NC_011507.vadr.fa.nsq
+# BLAST db .ndb file for NC_011507 saved in:                                       NC_011507.vadr.fa.ndb
+# BLAST db .not file for NC_011507 saved in:                                       NC_011507.vadr.fa.not
+# BLAST db .ntf file for NC_011507 saved in:                                       NC_011507.vadr.fa.ntf
+# BLAST db .nto file for NC_011507 saved in:                                       NC_011507.vadr.fa.nto
+# fasta sequence file for CDS from NC_011507 saved in:                             NC_011507.vadr.cds.fa
+# fasta sequence file for translated CDS from NC_011507 saved in:                  NC_011507.vadr.protein.fa
+# BLAST db .phr file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.phr
+# BLAST db .pin file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.pin
+# BLAST db .psq file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.psq
+# BLAST db .pdb file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.pdb
+# BLAST db .pot file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.pot
+# BLAST db .ptf file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.ptf
+# BLAST db .pto file for NC_011507 saved in:                                       NC_011507.vadr.protein.fa.pto
+# esl-sfetch index file for Bio::Easel::SqFile=HASH(0x55db675ade40) saved in:      NC_011507.vadr.protein.fa.ssi
+# HMMER model db file for NC_011507 saved in:                                      NC_011507.vadr.protein.hmm
+# hmmbuild build output (concatenated) saved in:                                   NC_011507.vadr.protein.hmmbuild
+# binary HMM and p7 HMM filter file saved in:                                      NC_011507.vadr.protein.hmm.h3m
+# SSI index for binary HMM file saved in:                                          NC_011507.vadr.protein.hmm.h3i
+# optimized p7 HMM filters (MSV part) saved in:                                    NC_011507.vadr.protein.hmm.h3f
+# optimized p7 HMM filters (remainder) saved in:                                   NC_011507.vadr.protein.hmm.h3p
+# hmmpress output file saved in:                                                   NC_011507.vadr.hmmpress
+# CM file saved in:                                                                NC_011507.vadr.cm
+# cmbuild output file saved in:                                                    NC_011507.vadr.cmbuild
+# binary CM and p7 HMM filter file saved in:                                       NC_011507.vadr.cm.i1m
+# SSI index for binary CM file saved in:                                           NC_011507.vadr.cm.i1i
+# optimized p7 HMM filters (MSV part) saved in:                                    NC_011507.vadr.cm.i1f
+# optimized p7 HMM filters (remainder) saved in:                                   NC_011507.vadr.cm.i1p
+# cmpress output file saved in:                                                    NC_011507.vadr.cmpress
+# VADR 'model info' format file for NC_011507 saved in:                            NC_011507.vadr.minfo

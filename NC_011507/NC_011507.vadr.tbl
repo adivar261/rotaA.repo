@@ -1,0 +1,9 @@
+>Feature ref|NC_011507.2|
+19	3285	gene
+			gene_desc	VP1
+			db_xref	GeneID:7011368
+19	3285	CDS
+			product	VP1
+			prot_desc	RNA dependent RNA polymerase
+			protein_id	ref|YP_002302227.1|
+

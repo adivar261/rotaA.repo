@@ -1,0 +1,17 @@
+>Feature ref|YP_002302227.1|
+1	1088	Protein
+			product	VP1
+			prot_desc	RNA dependent RNA polymerase
+101	706	Region
+			region	RdRP_4
+			note	Viral RNA-directed RNA-polymerase
+			db_xref	CDD:280316
+777	1088	Region
+			region	Rotavirus_VP1
+			note	Rotavirus VP1 C-terminal domain
+			db_xref	CDD:403490
+1	1088	CDS
+			product	VP1
+			prot_desc	RNA dependent RNA polymerase
+			protein_id	ref|YP_002302227.1|
+
