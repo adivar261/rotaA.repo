@@ -1,0 +1,13 @@
+>Feature ref|YP_002302226.1|
+1	882	Protein
+			product	VP2
+			prot_desc	core capsid protein
+1	882	Region
+			region	Rota_VP2
+			note	Rotavirus VP2 protein
+			db_xref	CDD:398657
+1	882	CDS
+			product	VP2
+			prot_desc	core capsid protein
+			protein_id	ref|YP_002302226.1|
+

@@ -1,0 +1,9 @@
+>Feature ref|NC_011506.2|
+17	2665	gene
+			gene_desc	VP2
+			db_xref	GeneID:7011366
+17	2665	CDS
+			product	VP2
+			prot_desc	core capsid protein
+			protein_id	ref|YP_002302226.1|
+
