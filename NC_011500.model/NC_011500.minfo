@@ -2,6 +2,8 @@ MODEL NC_011500 blastdb:"NC_011500.vadr.protein.fa" cmfile:"NC_011500.vadr.cm" l
 FEATURE NC_011500 type:"gene" coords:"31..1509:+" parent_idx_str:"GBNULL" gene:"G" alternative_ftr_set:"attachment(gene)" alternative_ftr_set_subn:"attachment(cds).1"
 FEATURE NC_011500 type:"gene" coords:"31..1518:+" parent_idx_str:"GBNULL" gene:"G" alternative_ftr_set:"attachment(gene)" alternative_ftr_set_subn:"attachment(cds).2"
 FEATURE NC_011500 type:"gene" coords:"31..1521:+" parent_idx_str:"GBNULL" gene:"G" alternative_ftr_set:"attachment(gene)" alternative_ftr_set_subn:"attachment(cds).3"
+FEATURE NC_011500 type:"gene" coords:"31..1530:+" parent_idx_str:"GBNULL" gene:"G" alternative_ftr_set:"attachment(gene)" alternative_ftr_set_subn:"attachment(cds).4"
 FEATURE NC_011500 type:"CDS" coords:"31..1509:+" parent_idx_str:"GBNULL" gene:"G" product:"NSP1" alternative_ftr_set:"attachment(cds)" fst_exc:"1150..1206:+"
 FEATURE NC_011500 type:"CDS" coords:"31..1518:+" parent_idx_str:"GBNULL" gene:"G" product:"NSP1" alternative_ftr_set:"attachment(cds)" fst_exc:"1150..1206:+"
 FEATURE NC_011500 type:"CDS" coords:"31..1521:+" parent_idx_str:"GBNULL" gene:"G" product:"NSP1" alternative_ftr_set:"attachment(cds)" fst_exc:"1150..1206:+"
+FEATURE NC_011500 type:"CDS" coords:"31..1530:+" parent_idx_str:"GBNULL" gene:"G" product:"NSP1" alternative_ftr_set:"attachment(cds)" fst_exc:"1150..1206:+"
