@@ -1,0 +1,16 @@
+# esl-seqstat -a output for input fasta file saved in:                             va-r10k-combine.vadr.seqstat
+# 5 column feature table output for passing sequences saved in:                    va-r10k-combine.vadr.pass.tbl
+# 5 column feature table output for failing sequences saved in:                    va-r10k-combine.vadr.fail.tbl
+# list of passing sequences saved in:                                              va-r10k-combine.vadr.pass.list
+# list of failing sequences saved in:                                              va-r10k-combine.vadr.fail.list
+# list of alerts in the feature tables saved in:                                   va-r10k-combine.vadr.alt.list
+# fasta file with passing sequences saved in:                                      va-r10k-combine.vadr.pass.fa
+# fasta file with failing sequences saved in:                                      va-r10k-combine.vadr.fail.fa
+# per-sequence tabular annotation summary file saved in:                           va-r10k-combine.vadr.sqa
+# per-sequence tabular classification summary file saved in:                       va-r10k-combine.vadr.sqc
+# per-feature tabular summary file saved in:                                       va-r10k-combine.vadr.ftr
+# per-model-segment tabular summary file saved in:                                 va-r10k-combine.vadr.sgm
+# per-model tabular summary file saved in:                                         va-r10k-combine.vadr.mdl
+# per-alert tabular summary file saved in:                                         va-r10k-combine.vadr.alt
+# alert count tabular summary file saved in:                                       va-r10k-combine.vadr.alc
+# alignment doctoring tabular summary file saved in:                               va-r10k-combine.vadr.dcr

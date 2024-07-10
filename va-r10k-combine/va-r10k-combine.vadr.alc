@@ -1,0 +1,38 @@
+#     alert     causes   short                               per    num   num  long       
+#idx  code      failure  description                        type  cases  seqs  description
+#---  --------  -------  -----------------------------  --------  -----  ----  -----------
+1     lowscore  no       LOW_SCORE                      sequence    212   212  score to homology model below low threshold
+2     biasdseq  no       BIASED_SEQUENCE                sequence    202   202  high fraction of score attributed to biased sequence composition
+3     extrant5  no       EXTRA_SEQUENCE_START           sequence     50    50  extra sequence detected 5' of expected sequence start
+4     extrant3  no       EXTRA_SEQUENCE_END             sequence     51    51  extra sequence detected 3' of expected sequence end
+5     fstlocft  no       POSSIBLE_FRAMESHIFT_LOW_CONF    feature     44    44  low confidence possible frameshift in CDS (frame not restored before end)
+6     fstlocfi  no       POSSIBLE_FRAMESHIFT_LOW_CONF    feature    805   345  low confidence possible frameshift in CDS (frame restored before end)
+7     indf5lcc  no       INDEFINITE_ANNOTATION_START     feature     78    39  alignment to homology model has low confidence at 5' boundary for feature that is or matches a CDS
+8     indf3lcc  no       INDEFINITE_ANNOTATION_END       feature    390   195  alignment to homology model has low confidence at 3' boundary for feature that is or matches a CDS
+9     insertnn  no       INSERTION_OF_NT                 feature     30    30  too large of an insertion in nucleotide-based alignment of CDS feature
+10    lowsim5c  no       LOW_FEATURE_SIMILARITY_START    feature     90    45  region overlapping annotated feature that is or matches a CDS at 5' end of sequence lacks significant similarity
+11    lowsim3c  no       LOW_FEATURE_SIMILARITY_END      feature    350   175  region overlapping annotated feature that is or matches a CDS at 3' end of sequence lacks significant similarity
+12    lowsimic  no       LOW_FEATURE_SIMILARITY          feature     16     7  region overlapping annotated feature that is or matches a CDS lacks significant similarity
+#---  --------  -------  -----------------------------  --------  -----  ----  -----------
+13    revcompl  yes      REVCOMPLEM                     sequence      3     3  sequence appears to be reverse complemented
+14    lowcovrg  yes      LOW_COVERAGE                   sequence      5     5  low sequence fraction with significant similarity to homology model
+15    dupregin  yes      DUPLICATE_REGIONS              sequence     37    37  similarity to a model region occurs more than once
+16    lowsim3s  yes      LOW_SIMILARITY_END             sequence     14    14  significant similarity not detected at 3' end of the sequence
+17    lowsimis  yes      LOW_SIMILARITY                 sequence     39    39  internal region without significant similarity
+18    noftrann  yes      NO_FEATURES_ANNOTATED          sequence      1     1  sequence similarity to homology model does not overlap with any features
+19    mutstart  yes      MUTATION_AT_START               feature     47    47  expected start codon could not be identified
+20    mutendcd  yes      MUTATION_AT_END                 feature    109   109  expected stop codon could not be identified, predicted CDS stop by homology is invalid
+21    mutendns  yes      MUTATION_AT_END                 feature      5     5  expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon
+22    mutendex  yes      MUTATION_AT_END                 feature     61    61  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position
+23    unexleng  yes      UNEXPECTED_LENGTH               feature     74    74  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3
+24    cdsstopn  yes      CDS_HAS_STOP_CODON              feature    237   237  in-frame stop codon exists 5' of stop position predicted by homology to reference
+25    cdsstopp  yes      CDS_HAS_STOP_CODON              feature      5     5  stop codon in protein-based alignment
+26    fsthicft  yes      POSSIBLE_FRAMESHIFT_HIGH_CONF   feature     20    20  high confidence possible frameshift in CDS (frame not restored before end)
+27    fsthicfi  yes      POSSIBLE_FRAMESHIFT_HIGH_CONF   feature    112   111  high confidence possible frameshift in CDS (frame restored before end)
+28    indf5plg  yes      INDEFINITE_ANNOTATION_START     feature     41    41  protein-based alignment extends past nucleotide-based alignment at 5' end
+29    indf5pst  yes      INDEFINITE_ANNOTATION_START     feature     24    23  protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint
+30    indf3gap  yes      INDEFINITE_ANNOTATION_END       feature     84    42  alignment to homology model is a gap at 3' boundary
+31    indf3plg  yes      INDEFINITE_ANNOTATION_END       feature      3     3  protein-based alignment extends past nucleotide-based alignment at 3' end
+32    indf3pst  yes      INDEFINITE_ANNOTATION_END       feature    188   188  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint
+33    insertnp  yes      INSERTION_OF_NT                 feature     25    23  too large of an insertion in protein-based alignment
+#---  --------  -------  -----------------------------  --------  -----  ----  -----------

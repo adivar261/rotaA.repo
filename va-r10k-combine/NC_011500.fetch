@@ -1,0 +1,6 @@
+Usage: esl-sfetch [options] <sqfile> <name>        (one seq named <name>)
+Usage: esl-sfetch [options] -f <sqfile> <namefile> (all seqs in <namefile>)
+Usage: esl-sfetch [options] --index <sqfile>       (index <sqfile>)
+
+To see more help on available options, do esl-sfetch -h
+
